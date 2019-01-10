@@ -2,7 +2,6 @@ CSC 360: Operating Systems (FALL 2018)
 Programming Assignment 1: A Process Manager (PMan)
 
 Student: Xiaole (Wendy) Tan
-Vnumber: V00868734
 
 Introduction:
 Program PMan prompt and accept input from user, execute command in the background.
