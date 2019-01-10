@@ -1,6 +1,6 @@
 /*CSC360 A01 Pman
  *Student: Xiaole (Wendy) Tan
- *Vnumber: V00868734*/
+ */
 
 /*Includes*/
 #include <stdlib.h>
